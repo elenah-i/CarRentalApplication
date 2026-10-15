@@ -1,0 +1,14 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+
+# Build files
+bin/
+obj/
+
+# User-specific files
+*.csproj.user
+
+# Other generated files
+.DS_Store
